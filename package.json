@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@riophae/vue-treeselect": "0.0.38",
-    "ajv": "^6.5.3",
+    "ajv": "^6.12.3",
     "axios": "^0.18.0",
     "element-ui": "^2.4.5",
     "jquery": "^3.3.1",
